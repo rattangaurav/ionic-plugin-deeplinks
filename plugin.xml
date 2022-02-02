@@ -8,9 +8,9 @@
 	<repo>https://github.com/ionic-team/ionic-plugin-deeplink.git</repo>
 	<issue>https://github.com/ionic-team/ionic-plugin-deeplink/issues</issue>
 
-	<preference name="URL_SCHEME" />
+	<preference name="URL_SCHEME" default="onmywaycash" />
 	<preference name="DEEPLINK_SCHEME" default="https" />
-	<preference name="DEEPLINK_HOST" default="" />
+	<preference name="DEEPLINK_HOST" default="onmyway.com" />
 
 	<!-- android -->
 	<platform name="android">
